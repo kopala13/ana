@@ -1,0 +1,133 @@
+body {
+    font-family: monospace;
+    text-align:center;
+    }
+    h1 {
+    font-size: 40px; 
+    text-align: center; 
+    }
+    .nona {
+    height: 293px;
+    width: 482px;
+    }
+    .sisi {
+    font-size: 15px;
+    font-family: monospace;
+    }
+    .con {
+      display: flex;
+      align-items: center;
+      justify-content: center
+    }
+    .pic {
+     padding-left: 20px;
+    }
+    .rm {
+    height: 50px;
+    width: 40px;
+    position: relative;
+    top: 10px;
+    right: 20px;
+    }
+    h2 {
+    font-size: 35px;
+    text-align: center;
+    }
+    .roro {
+    border: 2px solid rgb(226, 86, 86);
+    font-size: 20px;
+    }
+    .i {
+    border: 2px solid rgb(226, 86, 86);
+    }
+    .why {
+    text-decoration: none;
+    color: black;
+    }
+    .why:hover {
+    color: blue;
+    text-decoration:underline;
+    }
+    .jude {
+    height: 300px;
+    width: 300px;
+    }
+    h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+    span {
+    margin-left: 100px;
+    }
+    .gal {
+    display: flex;
+    justify-content: space-between;
+    }
+    h4 {
+    font-size: 35px;
+    text-align: center;
+    }
+    .riri {
+    font-size: 18px;
+    }
+    .ve {
+    font-size: 15px;
+    }
+    .oxraxushi{
+    border: 2px solid #9966ff;
+    font-size: 16px;
+    }
+    .a {
+    border: 2px solid #9966ff;
+    }
+    h5 {
+      font-size: 35px;
+      text-align: center;
+    }
+    .qaqa {
+    border: 1px solid lightskyblue;
+    }
+    h6 {
+      font-size: 35px;
+      text-align: center;
+    }
+    .r {
+    height: 200px;
+    width: 150px;
+    }
+    .yy {
+      font-size: 14px;
+    }
+    h7 {
+    font-size: 35px;
+    text-align: center;
+    }
+    .iam {
+    height: 35px;
+    width: 35px;
+    }
+    ul {
+    font-size: 24px;
+    }
+    footer {
+    border: 1px solid black;
+    background-color:#cce5ff ;
+    }
+    .lola {
+    height: 190px;
+    width: 282px;
+    }
+    nav a{
+        color:rgb(0, 0, 0);
+        font-size:20px;
+        text-decoration: none;
+        
+    }
+nav a:hover{
+    box-shadow:3px 3px 3px 3px;
+    transition:1s;
+    color:rgb(6, 240, 6);
+}
+.sisi,.riri,.yy{
+    font-size:20px;
+}

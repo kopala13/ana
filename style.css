@@ -1,0 +1,234 @@
+body {
+    font-family: monospace;
+    text-align:center;
+    }
+    h1 {
+    font-size: 40px;
+    text-align: center;
+    }
+    .ney {
+    font-size: 25px;
+    }
+    ol {
+    font-size: 22px;
+    }
+    .hi {
+    height: 25px;
+    width: 25px;
+    }
+    .ni {
+    height: 30px;
+    width: 30px;
+    }
+    .na {
+    float: right;
+    display: inline-block;
+    padding-left:110px;
+    margin-bottom: 100px;
+    }
+    .va {
+    display: inline-block;
+    }
+    .oo {
+    display: inline-block;
+    }
+    .idk {
+    font-size: 25px;
+    }
+    .do {
+    border: 3px solid red;
+    }
+    .re {
+    border: 3px solid yellow;
+    }
+    .mi {
+    border: 3px solid green;
+    }
+    h2 {
+    font-size: 35px;
+    text-align: center;
+    }
+    .nu {
+    position: relative;
+    left: 0px;
+    text-align: center;
+    font-size: 20px;
+    }
+    .soso {
+    height: 350px;
+    width: 280px;
+    }
+    .lolo {
+    position: relative;
+    left: 350px;
+    bottom: 370px;
+    text-align: center;
+    font-size: 20px;
+    
+    }
+    .roro {
+    position: relative;
+    text-align: center;
+    left: 710px;
+    bottom: 740px;
+    font-size: 20px;
+    }
+    .toto {
+    position: relative;
+    text-align: center;
+    left: 100px;
+    bottom: 640px;
+    right: 100px;
+    font-size: 20px;
+    }
+    .cici {
+    position: relative;
+    text-align: center;
+    left: 600px;
+    bottom: 1050px;
+    font-size: 20px;
+    }
+    .nann {
+    position: absolute;
+    }
+    .a {
+    height: 300px;
+    width: 297px;
+    }
+    .b {
+    height: 309px;
+    width: 300px;
+    }
+    .c {
+    height: 340px;
+    width: 300px;
+    }
+    .d {
+    width: 200px; 
+    height: 330px;
+    }
+    .n10 {
+    position: relative;
+    top: 500px;
+    }
+    h3 {
+    font-size: 35px;
+    text-align: center;
+    }
+    .tutu{
+    border: 3px solid #990000;
+    font-size: 25px;
+    color: black;
+    background-color: #ffb833;
+    }
+    td {
+    border: 3px solid #990000;    
+    }
+    ol {
+    font-size: 25px;
+    }
+    .a:hover {
+    height: 350px;
+    width: 347px;
+    }
+    .b:hover {
+    height:359px;
+    width:350px;
+    }
+    .c:hover {
+    height: 350px;
+    width: 350px;
+    }
+    .d:hover {
+    width: 250px;
+    height: 390px;
+    }
+    .soso:hover {
+    height: 400px;
+    width: 320px;
+    }
+    .vaii {
+    top:300px;
+    position: relative;
+    left: 650px;
+    bottom: 400px;
+    }
+    .nino {
+    height: 230px;
+    width: 180px;
+    }
+    .lplp {
+    height:150px;
+    width: 300px;
+    }
+    .nolo {
+    top: 1000px;
+    position: relative;
+    }
+    .qo {
+    
+    }
+    .whii {
+    top: 100px;
+    }
+    .n10 {
+    }
+    .oooo {
+    
+    }
+    footer {
+    
+    }
+    h4 {
+    font-size: 35px;
+    text-align: center;
+    }
+    .il {
+    position: relative;
+    top: 300px;
+    display: flex;
+    justify-content: space-between;
+    }
+    .h {
+    position: relative;
+    top: 300px;
+    }
+    .lola {
+    height: 150px;
+    width: 250px;
+    }
+    footer {
+    position: relative;
+    top: 400px; 
+    border: 1px solid black;  
+    background-color: #D2E0BF; 
+    }
+    .con {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .pic {
+     padding-left: 20px;
+    }
+    .nann{
+        margin-left:300px;
+    }
+    .life{
+    margin-right:1000px;
+    margin-left:300px;
+     }
+.at{
+    margin-left:600px;
+}
+    nav a{
+        color:rgb(0, 0, 0);
+        font-size:20px;
+        text-decoration: none;
+        
+    }
+nav a:hover{
+    box-shadow:3px 3px 3px 3px;
+    transition:1s;
+    color:rgb(6, 240, 6);
+}
